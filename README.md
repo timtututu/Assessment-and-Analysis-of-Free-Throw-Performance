@@ -1,7 +1,7 @@
 # Assessment-and-Analysis-of-Free-Throw-Performance-Using-IMU-and-Object-Detection-Model
 For object detection model:
 Train by Google Colab (code in object_detection folder)
-For more yolo training data see here 
+For more yolo training data see here - https://drive.google.com/drive/folders/1PeRJqbSysVRakmynSJS4DB41v98cGRkl
 
 For IMU
 using Arduino_MPU6050 and I2Cdev for library 
